@@ -16,7 +16,7 @@
 ## 🙋‍♀️ Who I Am
 
 ```ts
-const Saksham garg = {
+const Saksham Garg = {
   title: "Computer Science Engineering Student",
   stack: [
     "Java", "Streamlit", "FastAPI",
@@ -42,14 +42,14 @@ const Saksham garg = {
 
 An AI/ML-powered recommendation system that suggests movies based on user preferences.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Saniyabano6&repo=AIBasedMovie-recom&theme=nord&border_color=7dd3fc" alt="AI-Based Movie Recommendation pin" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sakshamgarg895&repo=AIBasedMovie-recom&theme=nord&border_color=7dd3fc" alt="AI-Based Movie Recommendation pin" />
 
 | Layer | Technology |
 |---|---|
 | Language | Java |
 | ML | scikit-learn / recommendation techniques |
 
-🔗 [Code](https://github.com/Saniyabano6/AIBasedMovie-recom)
+🔗 [Code]()
 
 <br/>
 
@@ -57,7 +57,7 @@ An AI/ML-powered recommendation system that suggests movies based on user prefer
 
 A news research assistant that retrieves and answers questions from source articles using a RAG pipeline.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Saniyabano6&repo=Research-tool&theme=nord&border_color=7dd3fc" alt="Research Tool pin" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sakshamgarg895&repo=Research-tool&theme=nord&border_color=7dd3fc" alt="Research Tool pin" />
 
 | Layer | Technology |
 |---|---|
@@ -91,14 +91,14 @@ A news research assistant that retrieves and answers questions from source artic
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Saniyabano6&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saniyabano6&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" />
+<img src="https://github-readme-stats.vercel.app/api?username=sakshamgarg895-droid&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamgarg895-droid&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" />
 
-<img src="https://streak-stats.demolab.com?user=Saniyabano6&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" />
+<img src="https://streak-stats.demolab.com?user=sakshamgarg895-droid&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Saniyabano6&theme=nord&no-frame=true&no-bg=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=sakshamgarg895-droid&theme=nord&no-frame=true&no-bg=true&margin-w=10" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saniyabano6&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshamgarg895-droid&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff" />
 
 </div>
 
